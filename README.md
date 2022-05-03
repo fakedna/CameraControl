@@ -7,5 +7,5 @@ The sample is provided as WPF application. WriteableBitmap is used to draw video
 There is no external dependencies. Only necessary files from [DirectShowNet](https://sourceforge.net/projects/directshownet/files/) are included.
 
 ## Useful links
-[SeeShark](https://github.com/vignetteapp/SeeShark) have the same idea of raw byte output, but use ffmpeg library for video decoding. It's also have many decoding options and cross-platform.
+[SeeShark](https://github.com/vignetteapp/SeeShark) have the same idea of raw byte output, but use ffmpeg library for video decoding. It's also have many decoding options and cross-platform.\
 [Avalonia.WebCam](https://github.com/AvaloniaUI/Avalonia.WebCam) is a same DirectShow solution, but received frames are converted to Bitmaps.
