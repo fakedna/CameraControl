@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraControl", "CameraControl.csproj", "{B261AB48-1E0A-41D1-889B-25598C9E8BC2}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoSource", "VideoSource\VideoSource.csproj", "{AF4073C6-FAA3-40E2-9241-A7C98B22F28A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{C3631CE2-E9D7-4A98-BA8E-9835127137FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,13 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B261AB48-1E0A-41D1-889B-25598C9E8BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B261AB48-1E0A-41D1-889B-25598C9E8BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B261AB48-1E0A-41D1-889B-25598C9E8BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B261AB48-1E0A-41D1-889B-25598C9E8BC2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AF4073C6-FAA3-40E2-9241-A7C98B22F28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AF4073C6-FAA3-40E2-9241-A7C98B22F28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF4073C6-FAA3-40E2-9241-A7C98B22F28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF4073C6-FAA3-40E2-9241-A7C98B22F28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3631CE2-E9D7-4A98-BA8E-9835127137FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3631CE2-E9D7-4A98-BA8E-9835127137FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3631CE2-E9D7-4A98-BA8E-9835127137FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3631CE2-E9D7-4A98-BA8E-9835127137FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

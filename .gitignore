@@ -480,3 +480,11 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,rider
+/global.json
+/.idea/.idea.CameraControl/.idea/.gitignore
+/.idea/.idea.CameraControl/.idea/encodings.xml
+/.idea/.idea.CameraControl/.idea/indexLayout.xml
+/.idea/.idea.CameraControl/.idea/jsLibraryMappings.xml
+/.idea/.idea.CameraControl/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.idea.CameraControl/.idea/riderModule.iml
+/.idea/.idea.CameraControl/.idea/vcs.xml
