@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net5.0-windows</TargetFramework>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="VideoSource\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="VideoSource\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="VideoSource\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Page Remove="VideoSource\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="VideoSource\VideoSource.csproj" />
+    </ItemGroup>
+
+</Project>
